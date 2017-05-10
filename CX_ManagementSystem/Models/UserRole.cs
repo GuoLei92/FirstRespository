@@ -19,5 +19,6 @@ namespace CX_ManagementSystem.Models
 
         public virtual Role Role { get; set; }
 
+        public int id { get; set; }
     }
 }
